@@ -1,0 +1,7 @@
+C:\Users\Иван\source\repos\Lessons\Homework_CheckParity\bin\Debug\Homework_CheckParity.exe.config
+C:\Users\Иван\source\repos\Lessons\Homework_CheckParity\bin\Debug\Homework_CheckParity.exe
+C:\Users\Иван\source\repos\Lessons\Homework_CheckParity\bin\Debug\Homework_CheckParity.pdb
+C:\Users\Иван\source\repos\Lessons\Homework_CheckParity\obj\Debug\Homework_CheckParity.csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\Lessons\Homework_CheckParity\obj\Debug\Homework_CheckParity.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Lessons\Homework_CheckParity\obj\Debug\Homework_CheckParity.exe
+C:\Users\Иван\source\repos\Lessons\Homework_CheckParity\obj\Debug\Homework_CheckParity.pdb

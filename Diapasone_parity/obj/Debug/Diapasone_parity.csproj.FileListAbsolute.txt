@@ -1,0 +1,7 @@
+C:\Users\Иван\source\repos\Lessons\Diapasone_parity\bin\Debug\Diapasone_parity.exe.config
+C:\Users\Иван\source\repos\Lessons\Diapasone_parity\bin\Debug\Diapasone_parity.exe
+C:\Users\Иван\source\repos\Lessons\Diapasone_parity\bin\Debug\Diapasone_parity.pdb
+C:\Users\Иван\source\repos\Lessons\Diapasone_parity\obj\Debug\Diapasone_parity.csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\Lessons\Diapasone_parity\obj\Debug\Diapasone_parity.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Lessons\Diapasone_parity\obj\Debug\Diapasone_parity.exe
+C:\Users\Иван\source\repos\Lessons\Diapasone_parity\obj\Debug\Diapasone_parity.pdb

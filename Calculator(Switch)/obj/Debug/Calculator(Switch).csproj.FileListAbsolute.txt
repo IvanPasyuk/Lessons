@@ -1,0 +1,7 @@
+C:\Users\Иван\source\repos\Lessons\Calculator(Switch)\obj\Debug\Calculator(Switch).csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\Lessons\Calculator(Switch)\obj\Debug\Calculator(Switch).csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Lessons\Calculator(Switch)\bin\Debug\Calculator(Switch).exe.config
+C:\Users\Иван\source\repos\Lessons\Calculator(Switch)\bin\Debug\Calculator(Switch).exe
+C:\Users\Иван\source\repos\Lessons\Calculator(Switch)\bin\Debug\Calculator(Switch).pdb
+C:\Users\Иван\source\repos\Lessons\Calculator(Switch)\obj\Debug\Calculator(Switch).exe
+C:\Users\Иван\source\repos\Lessons\Calculator(Switch)\obj\Debug\Calculator(Switch).pdb

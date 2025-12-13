@@ -1,0 +1,7 @@
+C:\Users\Иван\source\repos\Lessons\IndexArraySearch\bin\Debug\IndexArraySearch.exe.config
+C:\Users\Иван\source\repos\Lessons\IndexArraySearch\bin\Debug\IndexArraySearch.exe
+C:\Users\Иван\source\repos\Lessons\IndexArraySearch\bin\Debug\IndexArraySearch.pdb
+C:\Users\Иван\source\repos\Lessons\IndexArraySearch\obj\Debug\IndexArraySearch.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Lessons\IndexArraySearch\obj\Debug\IndexArraySearch.exe
+C:\Users\Иван\source\repos\Lessons\IndexArraySearch\obj\Debug\IndexArraySearch.pdb
+C:\Users\Иван\source\repos\Lessons\IndexArraySearch\obj\Debug\IndexArraySearch.csproj.AssemblyReference.cache

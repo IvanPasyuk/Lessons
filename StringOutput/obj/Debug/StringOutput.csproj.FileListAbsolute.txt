@@ -1,0 +1,7 @@
+C:\Users\Иван\source\repos\Lessons\StringOutput\bin\Debug\StringOutput.exe.config
+C:\Users\Иван\source\repos\Lessons\StringOutput\bin\Debug\StringOutput.exe
+C:\Users\Иван\source\repos\Lessons\StringOutput\bin\Debug\StringOutput.pdb
+C:\Users\Иван\source\repos\Lessons\StringOutput\obj\Debug\StringOutput.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\Lessons\StringOutput\obj\Debug\StringOutput.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Lessons\StringOutput\obj\Debug\StringOutput.exe
+C:\Users\Иван\source\repos\Lessons\StringOutput\obj\Debug\StringOutput.pdb
