@@ -1,0 +1,7 @@
+C:\Users\Иван\source\repos\Lessons\Array Reverse Output\bin\Debug\Array Reverse Output.exe.config
+C:\Users\Иван\source\repos\Lessons\Array Reverse Output\bin\Debug\Array Reverse Output.exe
+C:\Users\Иван\source\repos\Lessons\Array Reverse Output\bin\Debug\Array Reverse Output.pdb
+C:\Users\Иван\source\repos\Lessons\Array Reverse Output\obj\Debug\Array Reverse Output.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Lessons\Array Reverse Output\obj\Debug\Array Reverse Output.exe
+C:\Users\Иван\source\repos\Lessons\Array Reverse Output\obj\Debug\Array Reverse Output.pdb
+C:\Users\Иван\source\repos\Lessons\Array Reverse Output\obj\Debug\Array Reverse Output.csprojAssemblyReference.cache

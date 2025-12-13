@@ -1,0 +1,6 @@
+C:\Users\Иван\source\repos\Lessons\Array Even Sum\bin\Debug\Array Even Sum.exe.config
+C:\Users\Иван\source\repos\Lessons\Array Even Sum\bin\Debug\Array Even Sum.exe
+C:\Users\Иван\source\repos\Lessons\Array Even Sum\bin\Debug\Array Even Sum.pdb
+C:\Users\Иван\source\repos\Lessons\Array Even Sum\obj\Debug\Array Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Lessons\Array Even Sum\obj\Debug\Array Even Sum.exe
+C:\Users\Иван\source\repos\Lessons\Array Even Sum\obj\Debug\Array Even Sum.pdb

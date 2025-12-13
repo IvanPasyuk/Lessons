@@ -1,0 +1,6 @@
+C:\Users\Иван\source\repos\Lessons\Array Least Number\bin\Debug\Array Least Number.exe.config
+C:\Users\Иван\source\repos\Lessons\Array Least Number\bin\Debug\Array Least Number.exe
+C:\Users\Иван\source\repos\Lessons\Array Least Number\bin\Debug\Array Least Number.pdb
+C:\Users\Иван\source\repos\Lessons\Array Least Number\obj\Debug\Array Least Number.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Lessons\Array Least Number\obj\Debug\Array Least Number.exe
+C:\Users\Иван\source\repos\Lessons\Array Least Number\obj\Debug\Array Least Number.pdb
