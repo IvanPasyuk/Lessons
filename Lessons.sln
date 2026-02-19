@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30804.86
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11512.155 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons", "Lessons\Lessons.csproj", "{522A9563-CE8E-428C-8D00-2EDA73D835A7}"
 EndProject
@@ -10,8 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator(Switch)", "Calculator(Switch)\Calculator(Switch).csproj", "{1AA9F75E-CB03-48A0-9E33-B281843C8420}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diapasone_parity", "Diapasone_parity\Diapasone_parity.csproj", "{6B043530-1F65-4CB6-8F05-B8FBA5844041}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_Triangles", "..\Console_Triangles\Console_Triangles\Console_Triangles.csproj", "{7E7A7D7E-802E-4EED-8449-142B682243D0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array input", "Arrays\Array input.csproj", "{7232EB1E-B75F-4BF3-A02D-82D969C328A3}"
 EndProject
@@ -24,6 +22,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringOutput", "StringOutput\StringOutput.csproj", "{578C1F5F-EE12-4527-8399-72829A0AEA59}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexArraySearch", "IndexArraySearch\IndexArraySearch.csproj", "{07620A60-4B9D-4B1B-9153-A26A65ABEF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_Triangles", "Console_Triangles\Console_Triangles.csproj", "{65A102A9-15EA-8EC0-6FA2-71A3863C77C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,10 +47,6 @@ Global
 		{6B043530-1F65-4CB6-8F05-B8FBA5844041}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B043530-1F65-4CB6-8F05-B8FBA5844041}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B043530-1F65-4CB6-8F05-B8FBA5844041}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7E7A7D7E-802E-4EED-8449-142B682243D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E7A7D7E-802E-4EED-8449-142B682243D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E7A7D7E-802E-4EED-8449-142B682243D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E7A7D7E-802E-4EED-8449-142B682243D0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7232EB1E-B75F-4BF3-A02D-82D969C328A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7232EB1E-B75F-4BF3-A02D-82D969C328A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7232EB1E-B75F-4BF3-A02D-82D969C328A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -75,6 +71,10 @@ Global
 		{07620A60-4B9D-4B1B-9153-A26A65ABEF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07620A60-4B9D-4B1B-9153-A26A65ABEF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07620A60-4B9D-4B1B-9153-A26A65ABEF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A102A9-15EA-8EC0-6FA2-71A3863C77C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A102A9-15EA-8EC0-6FA2-71A3863C77C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A102A9-15EA-8EC0-6FA2-71A3863C77C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A102A9-15EA-8EC0-6FA2-71A3863C77C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
