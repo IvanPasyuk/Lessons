@@ -1,0 +1,15 @@
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\bin\Debug\net10.0\Console_Triangles.exe
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\bin\Debug\net10.0\Console_Triangles.deps.json
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\bin\Debug\net10.0\Console_Triangles.runtimeconfig.json
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\bin\Debug\net10.0\Console_Triangles.dll
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\bin\Debug\net10.0\Console_Triangles.pdb
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\obj\Debug\net10.0\Console_Triangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\obj\Debug\net10.0\Console_Triangles.AssemblyInfoInputs.cache
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\obj\Debug\net10.0\Console_Triangles.AssemblyInfo.cs
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\obj\Debug\net10.0\Console_Triangles.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\obj\Debug\net10.0\Console_Triangles.sourcelink.json
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\obj\Debug\net10.0\Console_Triangles.dll
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\obj\Debug\net10.0\refint\Console_Triangles.dll
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\obj\Debug\net10.0\Console_Triangles.pdb
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\obj\Debug\net10.0\Console_Triangles.genruntimeconfig.cache
+C:\Users\ivanp\source\repos\Lessons\Console_Triangles\obj\Debug\net10.0\ref\Console_Triangles.dll
